@@ -1,4 +1,4 @@
-package Ch1_Arrays_and_Strings.Q1_is_Unique;
+package Ch1_Arrays_and_Strings.Q1_IsUnique;
 
 import java.util.*;
 /*Implement an algorithm to determine if a string has all 

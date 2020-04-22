@@ -1,4 +1,4 @@
-package Ch1_Arrays_and_Strings.Q4_palindromePermutation;
+package Ch1_Arrays_and_Strings.Q4_PalindromePermutation;
 
 /*
 Given a string, write a function to check if it is a permutation of a palindrome. 

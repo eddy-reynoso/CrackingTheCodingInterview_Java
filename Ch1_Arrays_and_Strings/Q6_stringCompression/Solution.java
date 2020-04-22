@@ -1,4 +1,4 @@
-package Ch1_Arrays_and_Strings.Q6_stringCompression;
+package Ch1_Arrays_and_Strings.Q6_StringCompression;
 
 /*
 Implement a method to perform basic string compression using the counts

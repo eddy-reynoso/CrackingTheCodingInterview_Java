@@ -1,4 +1,4 @@
-package Ch1_Arrays_and_Strings.Q2_check_Permutation;
+package Ch1_Arrays_and_Strings.Q2_CheckPermutation;
 
 //Given two strings, write a method to determine if one string is a permutation of another.
 
