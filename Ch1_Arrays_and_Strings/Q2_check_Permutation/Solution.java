@@ -11,7 +11,7 @@ public class Solution {
         if (s1.length() != s2.length()) {
             return false;
         }
-        int[] characterCount = new int[126];
+        int[] characterCount = new int[128];
 
         for (int i = 0; i < s1.length(); i++) {
             char curr = s1.charAt(i);
