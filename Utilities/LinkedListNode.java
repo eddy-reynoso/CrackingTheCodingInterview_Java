@@ -13,15 +13,17 @@ public class LinkedListNode {
     }
 
     public void printList() {
-        System.out.println();
+        if (this != null) {
+            System.out.println();
 
-        LinkedListNode node = this;
-        while (node.next != null) {
-            System.out.print(node.data + "->");
-            node = node.next;
+            LinkedListNode node = this;
+            while (node.next != null) {
+                System.out.print(node.data + "->");
+                node = node.next;
+            }
+            System.out.print(node.data);
+            System.out.println();
         }
-        System.out.print(node.data);
-        System.out.println();
     }
 
 }
