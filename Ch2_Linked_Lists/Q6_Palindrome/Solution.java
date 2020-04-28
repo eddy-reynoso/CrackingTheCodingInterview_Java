@@ -15,9 +15,9 @@ public class Solution {
         LinkedListNode c = new LinkedListNode(8);
         LinkedListNode d = new LinkedListNode(5);
         LinkedListNode e = new LinkedListNode(3);
-        // LinkedListNode f = new LinkedListNode(3);
-        // LinkedListNode g = new LinkedListNode(2);
-        // LinkedListNode h = new LinkedListNode(2);
+        LinkedListNode f = new LinkedListNode(3);
+        LinkedListNode g = new LinkedListNode(2);
+        LinkedListNode h = new LinkedListNode(2);
 
         head.setNext(a);
         a.setNext(b);
